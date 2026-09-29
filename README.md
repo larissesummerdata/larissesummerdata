@@ -2,7 +2,7 @@
 
 **`Engenheira de Dados | Analytics Engineer | Data Science`**
 
-Atuo na intersecção entre infraestrutura de dados e inteligência de negócio. Meu foco é projetar pipelines escaláveis e ambientes analíticos confiáveis — da ingestão bruta à entrega de modelos preditivos e métricas de decisão.
+Atuo na intersecção entre infraestrutura de dados e inteligência de negócio. Meu foco é projetar pipelines escaláveis e ambientes analíticos confiáveis, da ingestão bruta à entrega de modelos preditivos e métricas de decisão.
 
 ​Combino formação em Análise e Desenvolvimento de Sistemas com background analítico e de processos (Administração e especializações em Engenharia de Dados e Gestão da Qualidade). No dia a dia, transformo bases fragmentadas em ecossistemas estruturados usando Python, SQL/PL-SQL, Spark e dbt, integrando soluções em cloud (AWS, GCP, Azure, Oracle Cloud) para alimentar desde painéis estratégicos até análises de Machine Learning.
 
