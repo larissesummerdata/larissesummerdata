@@ -76,7 +76,6 @@ Atuo na intersecção entre infraestrutura de dados e inteligência de negócio.
 
 ### 🎯 Principais Frentes & Resolução de Problemas
 * **Pipelines, Lakehouse & Orquestração:** Ingestão, transformação e carga (ETL/ELT), orquestração de DAGs com Apache Airflow, transformações modulares com dbt e modelagem na Arquitetura Medalhão (Bronze, Silver, Gold).
-* **Data Science & Modelagem Preditiva:** Análise exploratória avançada (EDA), formulação de testes de hipótese, regressão, classificação e detecção de anomalias com Python.
 * **Analytics & Business Intelligence:** Modelagem dimensional (Star Schema), consultas analíticas e rotinas procedurais em SQL/PL-SQL, relatórios interativos em Power BI/Looker/Tableau e criação de métricas de negócio auditáveis.
 * **Automação & Processos:** Integração de APIs, webhooks e automação de fluxos operacionais com foco em ganho de eficiência.
 
